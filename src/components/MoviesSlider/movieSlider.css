@@ -1,0 +1,11 @@
+body{
+    background-color: #002642;
+}
+.sliderMovies{
+    height: 400px;
+}
+.sliderMovies img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
